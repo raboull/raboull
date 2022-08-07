@@ -7,7 +7,7 @@ Loading...
 <li><a href="https://github.com/raboull/2DgameUsingOpenGL">Galaga Clone in OpenGL</a></li>
 </ul>
 
-# Get in Touch
+# Links
 <ul>
     <li><a href="https://ca.yahoo.com/">Yahoo Canada</a></li>
     <li><a href="https://www.xbox.com/en-us/xbox-game-pass/games#pcleavingsoon">Game Pass</a></li>
