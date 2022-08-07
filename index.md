@@ -1,13 +1,10 @@
 # My Interesets
 Loading...
 
-# My Blog
+# Project links
 <ul>
-{% for post in site.posts %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-</li>
-{% endfor %}
+<li><a href="https://github.com/raboull/Brick-Breaker-Clone-in-Unity">Brick Breaker Clone in Unity</a></li>
+<li><a href="https://github.com/raboull/2DgameUsingOpenGL">Galaga Clone in OpenGL</a></li>
 </ul>
 
 # Get in Touch
